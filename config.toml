@@ -1,4 +1,5 @@
-baseURL = "localhost"
+baseURL = ""
+relativeurls = true
 languageCode = "en-us"
 title = "bento64"
 theme = "kakutasu"
