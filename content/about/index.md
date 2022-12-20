@@ -69,6 +69,7 @@ For sending money in Vietnam or requesting other payment service, contact me via
 
 - [ ] Dedicated about page for academic and employment.
 - [ ] Other information such as PGP public key, mailing guidance, skills, technologies of interest.
+- [ ] Recommended online places by other great folks.
 
 ### For other places:
 - [ ] A lot...
