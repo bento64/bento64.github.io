@@ -29,6 +29,7 @@ Here's a list of my social media profiles and chat platform you can make contact
 * HackerNews: [bento64](https://news.ycombinator.com/user?id=bento64)
 
 Workplaces:
+
 * GitHub: [bento64](https://github.com/bento64)
 * GitLab: [bento64](https://gitlab.com/bento64)
 * SourceHut: [~bento64](https://sr.ht/~bento64)
@@ -56,7 +57,18 @@ nhanb​​2207​4​83[at]stu​dent[dot]ctu[dot]edu[dot]vn
 # Donate
 
 I'm doing fine, but I could use some help. Any kind of support is highly appreciated and welcome. Here are some way to send me support:
+
 * Monero (XMR) Address: `45BANDQyRqA8KEZKFmDe1H8o4qemQHAYGatg3TdpukMo7wir4RmEPb72NFELsi8ytzLnDCZCSZpBDXPSLRzB9u5UTFFRax8`
 * PayPal: [@iamwello](https://paypal.me/iamwello)
 
 For sending money in Vietnam or requesting other payment service, contact me via personal email or chat platforms above. Let me know your payment service of choice in email body/message and I will reply receiver's details if the service is available for me.
+
+# TODOs
+
+### For this page:
+
+- [ ] Dedicated about page for academic and employment.
+- [ ] Other information such as PGP public key, mailing guidance, skills, technologies of interest.
+
+### For other places:
+- [ ] A lot...
