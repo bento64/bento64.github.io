@@ -1,0 +1,62 @@
+baseURL = "localhost"
+languageCode = "en-us"
+title = "bento64"
+theme = "kakutasu"
+
+[params]
+    colortheme = "dark"
+
+    showAllPostsOnHomePage = false
+    postsOnHomePage = 5
+    showProjectsList = false
+    rss = true
+
+    mainSectionTitle = "log"
+
+    # Navigation menu sections
+    [[menu.main]]
+        name = "home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "log"
+        url = "/posts"
+        weight = 2
+
+    [[menu.main]]
+        name = "categories"
+        url = "/categories"
+        weight = 3
+
+    [[menu.main]]
+        name = "about"
+        url = "/about"
+        weight = 4
+
+    [[menu.main]]
+        name = "archive"
+        url = "/archive"
+        weight = 5
+
+    [[menu.main]]
+        name = "rss"
+        url = "/index.xml"
+        weight = 6
+
+    # Enable comments on every post by default
+    [params.comments]
+        enabled = true
+        engine = "cactus_comments"
+        [params.comments.cactuscomments]
+            siteName = "bento64.is-a.dev"
+
+    # Custom code snippets markup configs
+    [markup]
+        [markup.highlight]
+            guessSyntax = true
+            lineNos = true
+            style = "material"
+
+    # Enable mathjax for maths snippets
+    mathjax = true

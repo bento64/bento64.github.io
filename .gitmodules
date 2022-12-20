@@ -1,0 +1,3 @@
+[submodule "themes/kakutasu"]
+	path = themes/kakutasu
+	url = git@github.com:bento64/kakutasu.git
