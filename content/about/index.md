@@ -18,10 +18,10 @@ I mostly spend my free time doing mentioned hobbies above. I rarely playing comp
 
 More information about me is available in these subpages:
 
-* [Email](./email)
-* [Social](./social)
-* [Donate](./donate)
-* [Academic profile](./academic)
+* [Email](/about/email)
+* [Social](/about/social)
+* [Donate](/about/donate)
+* [Academic profile](/about/academic)
 
 ## Notes when contacting me:
 1. Don't ask to ask, just ask. If you ask to ask, I will ignore you until you bring your question up.

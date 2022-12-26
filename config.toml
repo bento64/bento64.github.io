@@ -1,9 +1,8 @@
-baseURL = ""
+baseURL = "bento64.is-a.dev"
 relativeurls = true
 languageCode = "en-us"
 title = "bento64"
 theme = "kakutasu"
-staticDir = ['content/archive']
 
 [params]
     colortheme = "dark"
