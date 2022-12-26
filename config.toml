@@ -1,4 +1,4 @@
-baseURL = "bento64.is-a.dev"
+baseURL = "https://bento64.github.io"
 relativeurls = true
 languageCode = "en-us"
 title = "bento64"
